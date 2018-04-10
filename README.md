@@ -37,8 +37,22 @@ Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://gi
 ## Track 2D cell motion and mitosis in time-lapse microscopy
 
 <p align="center">
- <img src="https://github.com/danielsnider/cell-bio/raw/master/images/tracking_dpc.gif" height="270px">
- <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif" height="270px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/tracking_dpc.gif" height="400px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif" height="400px">
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking)
+
+
+## Single Cell Analysis Toolkit
+
+A GUI for nontechnical users to perform cell segmentation, measuring, tracking, and plotting of high-content screens.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/ToolkitGUI.png" height="600px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/gui-seg1.jpg" height="400px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/gui-seg2.png" height="400px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/gui-seg3.png" height="400px">
+</p>
+
+Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit](https://github.com/danielsnider/Single_Cell_Analysis_Toolkit)
