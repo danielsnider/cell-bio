@@ -25,7 +25,7 @@ Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://gi
 
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/tracking_dpc.gif" height="270px">
- <img src="https://github.com/Kafri-Lab/cell-bio/raw/master/images/tracking_traces.gif" height="270px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif" height="270px">
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking)
