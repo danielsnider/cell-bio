@@ -1,4 +1,4 @@
-This page lists open source contributions made by Daniel Snider of SickKids Research Institute in Toronto, Canada.
+This page lists open source contributions made by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
 
 ## Timecourse Interaction Analysis
@@ -8,12 +8,14 @@ This page lists open source contributions made by Daniel Snider of SickKids Rese
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/distance_plot.PNG" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/1_distance_vs_time_traces%20type_zoom_decon%20cell_10.png" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3_bar_scatter_contact.png" height="270px">
+  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="600px">
 </p>
 
+<!---
 Project homepage: [https://github.com/Kafri-Lab/PLACEHOLDER](https://github.com/Kafri-Lab/PLACEHOLDER)
+-->
 
-
-## Pancreatic Islet Measured 3D
+## 3D Measurements of Pancreatic Islets
 
 <p align="center">
  <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/segmentation.gif" height="270px">
