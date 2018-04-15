@@ -8,7 +8,7 @@ This page lists open source projects by Daniel Snider at the SickKids Research I
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/distance_plot.PNG" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/1_distance_vs_time_traces%20type_zoom_decon%20cell_10.png" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3_bar_scatter_contact.png" height="270px">
-  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="600px">
+  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="420px">
 </p>
 
 Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https://github.com/danielsnider/peroxi_mito_analysis)
