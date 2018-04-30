@@ -1,4 +1,4 @@
-This page lists open source contributions made by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
+This page lists open source projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
 
 ## Timecourse Interaction Analysis
@@ -8,29 +8,27 @@ This page lists open source contributions made by Daniel Snider at the SickKids 
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/distance_plot.PNG" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/1_distance_vs_time_traces%20type_zoom_decon%20cell_10.png" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3_bar_scatter_contact.png" height="270px">
-  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="600px">
+  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="420px">
 </p>
 
-<!---
-Project homepage: [https://github.com/Kafri-Lab/PLACEHOLDER](https://github.com/Kafri-Lab/PLACEHOLDER)
--->
+Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https://github.com/danielsnider/peroxi_mito_analysis)
 
 ## 3D Measurements of Pancreatic Islets
 
 <p align="center">
  <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/segmentation.gif" height="270px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3d_islet.gif" height="270px">
  <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.png" height="270px">
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://github.com/Kafri-Lab/Cell-3D-Image-Analysis)
 
 
-## Compare cell sizes in E-cadherin stained images
+## Variety of E-cadherin stained images
 
 <p align="center">
- <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/segmentation.gifnope" height="270px">
- <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.pngnope" height="270px">
- <img src="https://github.com/danielsnider/cell-bio/raw/master/images/colorbar.PNG" height="270px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/side-by-side_zoo-animal-segmentation_ecad%20compressed.gif" height="330px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/colorbar.PNG" height="330px">
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)
@@ -39,14 +37,14 @@ Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://gi
 ## Track 2D cell motion and mitosis in time-lapse microscopy
 
 <p align="center">
- <img src="https://github.com/danielsnider/cell-bio/raw/master/images/tracking_dpc.gif" height="400px">
- <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif" height="400px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/tracking_dpc.gif" height="330px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif" height="330px">
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking)
 
 
-## Single Cell Analysis Toolkit
+## High Throughput Cell Analysis Toolkit
 
 A GUI for nontechnical users to perform cell segmentation, measuring, tracking, and plotting of high-content screens.
 
@@ -58,3 +56,4 @@ A GUI for nontechnical users to perform cell segmentation, measuring, tracking, 
 </p>
 
 Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit](https://github.com/danielsnider/Single_Cell_Analysis_Toolkit)
+
