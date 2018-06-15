@@ -18,7 +18,7 @@ Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https:/
 <p align="center">
  <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/segmentation.gif" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3d_islet.gif" height="270px">
- <img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.png" height="270px">
+ <!--img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.png" height="270px"-->
 </p>
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://github.com/Kafri-Lab/Cell-3D-Image-Analysis)
