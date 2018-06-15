@@ -1,8 +1,7 @@
 This page lists open source projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
 
-## Timecourse Interaction Analysis
-
+## Interaction Of organelles inside single cells
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/0_gif_distance_visualization%20type_zoom_decon%20cell_001.gif" height="500px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/0_gif_rotate%20type_zoom_decon%20cell_001%20compressed.gif?raw=true" height="420px">
