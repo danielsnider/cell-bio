@@ -7,7 +7,7 @@ This page lists open source projects by Daniel Snider at the SickKids Research I
 Daniel contributed figures, statistics, and image analysis to the surprising discovery that acinar cell size is strongly correlated with animal life span.
 
 <p align="center">
- <img src="https://github.com/danielsnider/ros-rover/blob/master/diagrams/my_contribution.PNG?raw=true" alt="Drawing" height="400px">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/my_contribution.PNG" alt="Drawing" height="400px">
  </p>
 
 **Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)**
