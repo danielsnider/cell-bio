@@ -43,6 +43,7 @@ Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://gi
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking)
 
+<!---
 
 ## High Throughput Cell Analysis Toolkit
 
@@ -57,7 +58,7 @@ A GUI for nontechnical users to perform cell segmentation, measuring, tracking, 
 </p>
 
 Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit](https://github.com/danielsnider/Single_Cell_Analysis_Toolkit)
-
+-->
 
 
 ## Outlier Analysis
