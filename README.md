@@ -2,7 +2,7 @@ This page lists open source projects by Daniel Snider at the SickKids Research I
 
 ## Published Journal Article:
 
-**Hypertrophy Correlates with a Shorter Lifespan in Mammals** Released June 18, 2018.
+Anzi, Shira et al. (2018). **Postnatal Exocrine Pancreas Growth by Cellular Hypertrophy Correlates with a Shorter Lifespan in Mammals**. Developmental Cell, Volume 45, Issue 6, 726-737
 
 Daniel contributed figures, statistics, and image analysis to the surprising discovery that acinar cell size is strongly correlated with animal life span.
 
