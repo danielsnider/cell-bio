@@ -1,20 +1,5 @@
 This page lists open source projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
-## Published Journal Article:
-
-Anzi, Shira et al. (2018). **Postnatal Exocrine Pancreas Growth by Cellular Hypertrophy Correlates with a Shorter Lifespan in Mammals**. Developmental Cell, Volume 45, Issue 6, 726-737
-
-Daniel contributed figures, statistics, and image analysis to the surprising discovery that acinar cell size is strongly correlated with animal life span.
-
-<p align="center">
- <img src="https://github.com/danielsnider/cell-bio/raw/master/images/my_contribution.PNG" alt="Drawing" height="400px">
- </p>
-
-**Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)**
-
-**Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)**
-
-
 ## Interaction of organelles inside single cells
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/0_gif_distance_visualization%20type_zoom_decon%20cell_001.gif?raw=true" height="450px">
@@ -86,3 +71,16 @@ Investigating the trends seen in the localization of protein signal inside singl
 
 Project homepage: none yet
 
+## Published Journal Article:
+
+Anzi, Shira et al. (2018). **Postnatal Exocrine Pancreas Growth by Cellular Hypertrophy Correlates with a Shorter Lifespan in Mammals**. Developmental Cell, Volume 45, Issue 6, 726-737
+
+Daniel contributed figures, statistics, and image analysis to the surprising discovery that acinar cell size is strongly correlated with animal life span.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/raw/master/images/my_contribution.PNG" alt="Drawing" height="400px">
+ </p>
+
+**Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)**
+
+**Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)**
