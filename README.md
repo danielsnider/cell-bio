@@ -32,16 +32,6 @@ Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https:/
 
 Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://github.com/Kafri-Lab/Cell-3D-Image-Analysis)
 
-
-## Growth of Intestinal Organoids
-
-<p align="center">
- <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid2.gif?raw=true" height="330px">
- <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid1.png?raw=true" height="330px">
-</p>
-
-<!-- Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking) -->
-
 ## Cell Size Variety in E-cadherin Immunofluorescence Histology Images
 
 <p align="center">
@@ -77,6 +67,16 @@ A GUI for nontechnical users to perform cell segmentation, measuring, tracking, 
 
 Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit](https://github.com/danielsnider/Single_Cell_Analysis_Toolkit)
 -->
+
+
+## Growth of Intestinal Organoids
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid2.gif?raw=true" height="330px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid1.png?raw=true" height="330px">
+</p>
+
+<!-- Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking) -->
 
 
 ## Outlier Analysis
