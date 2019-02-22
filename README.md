@@ -1,4 +1,4 @@
-This page lists fully autnomatic computer vision and A.I projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
+This page lists fully automatic computer vision projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
 ## Segmentation in Transmission Electron Microscopy (TEM)
 
