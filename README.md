@@ -1,4 +1,4 @@
-This page lists open source projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
+This page lists fully autnomatic segmentation projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
 
 ## Interaction of organelles inside single cells
 <p align="center">
