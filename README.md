@@ -1,4 +1,14 @@
-This page lists fully autnomatic segmentation projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
+This page lists fully autnomatic computer vision and A.I projects by Daniel Snider at the SickKids Research Institute in Toronto, Canada.
+
+## Segmentation in Transmission Electron Microscopy (TEM)
+
+The green area is the glomerular basement membrane and each colored contour is a podocyte foot process.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults.png?raw=true" height="450px">
+</p>
+
+
 
 ## Interaction of organelles inside single cells
 <p align="center">
@@ -23,7 +33,16 @@ Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https:/
 Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://github.com/Kafri-Lab/Cell-3D-Image-Analysis)
 
 
-## Variety of E-cadherin stained images
+## Growth of Intestinal Organoids
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid2.gif?raw=true" height="330px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid1.png?raw=true" height="330px">
+</p>
+
+<!-- Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking) -->
+
+## Cell Size Variety in E-cadherin Immunofluorescence Histology Images
 
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/side-by-side_zoo-animal-segmentation_ecad%20compressed.gif?raw=true" height="330px">
