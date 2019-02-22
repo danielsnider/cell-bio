@@ -2,7 +2,7 @@ This page lists fully autnomatic computer vision and A.I projects by Daniel Snid
 
 ## Segmentation in Transmission Electron Microscopy (TEM)
 
-The green area is the glomerular basement membrane and each colored contour is a podocyte foot process.
+The green area is the glomerular basement membrane and each colored contour line is a podocyte foot process.
 
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults.png?raw=true" height="450px">
