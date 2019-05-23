@@ -5,7 +5,7 @@ This page lists fully automatic computer vision projects by Daniel Snider at the
 The green area is the glomerular basement membrane and each colored contour line is a podocyte foot process.
 
 <p align="center">
- <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults.png?raw=true" height="450px">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults.gif?raw=true" height="450px">
 </p>
 
 
