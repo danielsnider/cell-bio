@@ -8,6 +8,8 @@ The green area is the glomerular basement membrane and each colored contour line
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults2.gif?raw=true" height="450px">
 </p>
 
+Project homepage: [https://github.com/danielsnider/TEM-glomerular-basement-segmentation](https://github.com/danielsnider/TEM-glomerular-basement-segmentation)
+
 ## Interaction of organelles inside single cells
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/0_gif_distance_visualization%20type_zoom_decon%20cell_001-2.gif?raw=true" height="450px">
@@ -74,7 +76,7 @@ Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit]
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/organoid1.png?raw=true" height="330px">
 </p>
 
-<!-- Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking) -->
+Project homepage: [https://github.com/danielsnider/Growth-of-Intestinal-Organoids](https://github.com/danielsnider/Growth-of-Intestinal-Organoids)
 
 
 ## Outlier Analysis
