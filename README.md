@@ -27,10 +27,10 @@ Project homepage: [https://github.com/danielsnider/peroxi_mito_analysis](https:/
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/islet-segmentation2.gif?raw=true" height="270px">
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/3d_islet2.gif?raw=true" height="270px">
- <!--img src="https://github.com/Kafri-Lab/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.png" height="270px"-->
+ <!--img src="https://github.com/danielsnider/Cell-3D-Image-Analysis/raw/master/readme_images/cell_size_plot.png" height="270px"-->
 </p>
 
-Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://github.com/Kafri-Lab/Cell-3D-Image-Analysis)
+Project homepage: [https://github.com/danielsnider/Cell-3D-Image-Analysis](https://github.com/danielsnider/Cell-3D-Image-Analysis)
 
 ## Cell Size Variety in E-cadherin Immunofluorescence Histology Images
 
@@ -39,7 +39,7 @@ Project homepage: [https://github.com/Kafri-Lab/Cell-3D-Image-Analysis](https://
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/colorbar.PNG?raw=true" height="330px">
 </p>
 
-Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)
+Project homepage: [https://github.com/danielsnider/E-cadherin-Cell-Size](https://github.com/danielsnider/E-cadherin-Cell-Size)
 
 
 ## Track 2D cell motion and mitosis in time-lapse microscopy
@@ -49,7 +49,7 @@ Project homepage: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://gi
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/tracking_traces.gif?raw=true" height="330px">
 </p>
 
-Project homepage: [https://github.com/Kafri-Lab/Cell-Tracking](https://github.com/Kafri-Lab/Cell-Tracking)
+Project homepage: [https://github.com/danielsnider/Cell-Tracking](https://github.com/danielsnider/Cell-Tracking)
 
 <!---
 
@@ -102,7 +102,7 @@ Daniel contributed figures, statistics, and image analysis to the surprising dis
 
 Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)
 
-Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)
+Full source code: [https://github.com/danielsnider/E-cadherin-Cell-Size](https://github.com/danielsnider/E-cadherin-Cell-Size)
 
 ## Single Cell Analysis Toolkit
 
