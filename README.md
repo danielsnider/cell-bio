@@ -88,7 +88,7 @@ Investigating the trends seen in the localization of protein signal inside singl
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/STRADa_nuc_vs_cell_mass_bins29_hidepoints_true.png?raw=true" width="663.408px">
 </p>
 
-Project homepage: none yet
+Project homepage: https://github.com/danielsnider/Outlier-Analysis
 
 ## Published Journal Article:
 
@@ -103,3 +103,13 @@ Daniel contributed figures, statistics, and image analysis to the surprising dis
 **Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)**
 
 **Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)**
+
+## Single Cell Analysis Toolkit
+
+A GUI for nontechnical users to perform cell segmentation, measuring, tracking, and plotting of high-content screens.
+
+<p align="center">
+ <img src="https://github.com/danielsnider/cell-bio/blob/master/images/matkit%206%20panel.jpg?raw=true" width="99%">
+</p>
+
+Project homepage: [https://github.com/danielsnider/Single_Cell_Analysis_Toolkit](https://github.com/danielsnider/Single_Cell_Analysis_Toolkit)
