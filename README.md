@@ -8,8 +8,6 @@ The green area is the glomerular basement membrane and each colored contour line
  <img src="https://github.com/danielsnider/cell-bio/blob/master/images/EMResults2.gif?raw=true" height="450px">
 </p>
 
-
-
 ## Interaction of organelles inside single cells
 <p align="center">
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/0_gif_distance_visualization%20type_zoom_decon%20cell_001-2.gif?raw=true" height="450px">
@@ -100,9 +98,9 @@ Daniel contributed figures, statistics, and image analysis to the surprising dis
  <img src="https://github.com/danielsnider/cell-bio/raw/master/images/my_contribution.jpg" alt="Drawing" height="400px">
  </p>
 
-**Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)**
+Journal Article: [https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9](https://www.cell.com/developmental-cell/abstract/S1534-5807(18)30417-9)
 
-**Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)**
+Full source code: [https://github.com/Kafri-Lab/E-cadherin-Cell-Size](https://github.com/Kafri-Lab/E-cadherin-Cell-Size)
 
 ## Single Cell Analysis Toolkit
 
